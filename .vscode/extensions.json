@@ -1,12 +1,12 @@
 {
-  "recommendations": [
-    "antfu.vite",
-    "pushqrdx.inline-html",
-    "esbenp.prettier-vscode",
-    "antfu.browse-lite",
-    "zignd.html-css-class-completion",
-    "jock.svg",
-    "ecmel.vscode-html-css",
-    "eamodio.gitlens"
-  ]
+	"recommendations": [
+		"antfu.vite",
+		"pushqrdx.inline-html",
+		"esbenp.prettier-vscode",
+		"antfu.browse-lite",
+		"zignd.html-css-class-completion",
+		"jock.svg",
+		"ecmel.vscode-html-css",
+		"eamodio.gitlens"
+	]
 }
